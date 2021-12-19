@@ -1,1 +1,1 @@
-# cmake_test
+# cmake_template
